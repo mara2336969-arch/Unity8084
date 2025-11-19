@@ -1,0 +1,2 @@
+print("Hit")
+print("Hi")
